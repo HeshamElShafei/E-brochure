@@ -20,7 +20,7 @@
     <div class="row space">
            <div class="col-md-12 col-sm-12 col-xs-12 back-block">
                 <div class="col-md-8 pull-right">
-                    <span>Back</span><img ng-click="club()" class="img-responsive" src="../assets/membership/back.png" />
+                    <span>Back</span><router-link to="/AlBarshaClub"><img ng-click="club()" class="img-responsive" src="../assets/membership/back.png" /></router-link>
                 </div>
             </div>
     </div>

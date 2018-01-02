@@ -17,27 +17,27 @@
                                 <td><img class="img-responsive visible-xs" src="../assets/city_location/arrow.png" /></td>
                             </tr>
                             <tr ng-click="club()" class="cursor">
-                                <td><h3 class="text-muted">Reef Mall - Mixed Club</h3></td>
+                                <td><router-link to="/AlBarshaClub"><h3 class="text-muted">Reef Mall - Mixed Club</h3></router-link></td>
                                 <td><img class="img-responsive arrow hidden-xs" src="../assets/city_location/arrow.png" /></td>
                                 <td><img class="img-responsive visible-xs" src="../assets/city_location/arrow.png" /></td>
                             </tr>
                             <tr ng-click="club()" class="cursor">
-                                <td><h3 class="text-muted">Business Village Deira - Mixed Club</h3></td>
+                                <td><router-link to="/AlBarshaClub"><h3 class="text-muted">Business Village Deira - Mixed Club</h3></router-link></td>
                                 <td><img class="img-responsive arrow hidden-xs" src="../assets/city_location/arrow.png" /></td>
                                 <td><img class="img-responsive visible-xs" src="../assets/city_location/arrow.png" /></td>
                             </tr>
                             <tr ng-click="club()" class="cursor">
-                                <td><h3 class="text-muted">Business Village Deira - Ladies Club</h3></td>
+                                <td><router-link to="/AlBarshaClub"><h3 class="text-muted">Business Village Deira - Ladies Club</h3></router-link></td>
                                 <td><img class="img-responsive arrow hidden-xs" src="../assets/city_location/arrow.png" /></td>
                                 <td><img class="img-responsive visible-xs" src="../assets/city_location/arrow.png" /></td>
                             </tr>
                             <tr ng-click="club()" class="cursor">
-                                <td><h3 class="text-muted">Al Barsha - Mixed Club</h3></td>
+                                <td><router-link to="/AlBarshaClub"><h3 class="text-muted">Al Barsha - Mixed Club</h3></router-link></td>
                                 <td><img class="img-responsive arrow hidden-xs" src="../assets/city_location/arrow.png" /></td>
                                 <td><img class="img-responsive visible-xs" src="../assets/city_location/arrow.png" /></td>
                             </tr>
                             <tr ng-click="club()" class="cursor">
-                                <td><h3 class="text-muted">Al Barsha - Ladies Club</h3></td>
+                                <td><router-link to="/AlBarshaClub"><h3 class="text-muted">Al Barsha - Ladies Club</h3></router-link></td>
                                 <td><img class="img-responsive arrow hidden-xs" src="../assets/city_location/arrow.png" /></td>
                                 <td><img class="img-responsive visible-xs" src="../assets/city_location/arrow.png" /></td>
                             </tr>
