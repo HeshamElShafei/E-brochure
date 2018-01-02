@@ -10,7 +10,7 @@
       </div>
       <h1 class="text1">KNOW YOUR</h1>
       <h1 class="text2">OWN STRENGTH</h1>
-      <button class="btn btn-lg btn-primary"><router-link to="/Information">START JOURNEY</router-link></button>
+     <router-link to="/Information"> <button class="btn btn-lg btn-primary">START JOURNEY</button></router-link>
     </div>
   </div>
 </div>

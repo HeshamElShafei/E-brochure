@@ -65,7 +65,7 @@
             </div>
         </div>
         <div class="col-md-12">
-            <button class="btn btn-lg btn-primary"><router-link to="/locations">Club Locations</router-link></button>
+            <router-link to="/locations"><button class="btn btn-lg btn-primary">Club Locations</button></router-link>
         </div>
     </div>
 </div>
