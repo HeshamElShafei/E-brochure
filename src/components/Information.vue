@@ -12,54 +12,54 @@
             <div class="row space">
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="col-md-3 col-sm-8 col-xs-8">
-                            <img ng-src="../assets/icons/earth.png" />
+                            <img src="../assets/icons/earth.png" />
                     </div>
                     <div class="col-md-9 col-sm-4 col-xs-4">
-                        <h4 class="info-text-bold">WORLDWIDE</h4>
+                        <h4 class="info-text-bold" align='center'> WORLDWIDE</h4>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="col-md-3 col-sm-8 col-xs-8">
-                            <img ng-src="../assets/icons/uae.png" />
+                            <img src="../assets/icons/uae.png" />
                     </div>
                     <div class="col-md-9 col-sm-4 col-xs-4">
-                        <h4 class="info-text-bold">UAE & OMAN</h4>
-                    </div>
-                </div>
-            </div>
-            <div class="row space">
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="col-md-3 col-sm-8 col-xs-8">
-                            <img ng-src="../assets/icons/location.png" />
-                    </div>
-                    <div class="col-md-9 col-sm-4 col-xs-4">
-                        <h4 class="info-text">700+ LOCATIONS</h4>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-12 col-xs-12">
-                    <div class="col-md-3 col-sm-8 col-xs-8">
-                            <img ng-src="../assets/icons/location.png" />
-                    </div>
-                    <div class="col-md-9 col-sm-4 col-xs-4">
-                        <h4 class="info-text">14+ LOCATIONS</h4>
+                        <h4 class="info-text-bold" align='center'> UAE & OMAN</h4>
                     </div>
                 </div>
             </div>
             <div class="row space">
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="col-md-3 col-sm-8 col-xs-8">
-                            <img ng-src="../assets/icons/flag.png" />
+                            <img src="../assets/icons/location.png" />
                     </div>
                     <div class="col-md-9 col-sm-4 col-xs-4">
-                        <h4 class="info-text">37+ COUNTRIES</h4>
+                        <h4 class="info-text" align='center'> 700+ LOCATIONS</h4>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="col-md-3 col-sm-8 col-xs-8">
-                            <img ng-src="../assets/icons/weight.png" />
+                            <img src="../assets/icons/location.png" />
                     </div>
                     <div class="col-md-9 col-sm-4 col-xs-4">
-                        <h4 class="info-text">22 CLUBS</h4>
+                        <h4 class="info-text" align='center'> 14+ LOCATIONS</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="row space">
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <div class="col-md-3 col-sm-8 col-xs-8">
+                            <img src="../assets/icons/flag.png" />
+                    </div>
+                    <div class="col-md-9 col-sm-4 col-xs-4">
+                        <h4 class="info-text" align='center'> 37+ COUNTRIES</h4>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <div class="col-md-3 col-sm-8 col-xs-8">
+                            <img src="../assets/icons/weight.png" />
+                    </div>
+                    <div class="col-md-9 col-sm-4 col-xs-4">
+                        <h4 class="info-text" align='center'> 22 CLUBS</h4>
                     </div>
                 </div>
             </div>

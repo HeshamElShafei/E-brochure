@@ -10,6 +10,11 @@ import Fujairah from '@/components/Fujairah'
 import AlAin from '@/components/AlAin'
 import RAK from '@/components/RAK'
 import Oman from '@/components/Oman'
+import AlBarshaClub from '@/components/AlBarshaClub'
+import Membership from '@/components/Membership'
+import Options from '@/components/Options'
+import Registration from '@/components/Registration'
+
 
 Vue.use(Router)
 
@@ -64,6 +69,27 @@ export default new Router({
     	path: '/Oman',
     	name: Oman,
     	component: Oman
+    },
+    {
+    	path: '/AlBarshaClub',
+    	name: AlBarshaClub,
+    	component: AlBarshaClub
+    },
+    {
+    	path: '/Membership',
+    	name: Membership,
+    	component: Membership
+    },
+    {
+    	path: '/Options',
+    	name: Options,
+    	component: Options
+    }
+    ,
+    {
+    	path: '/Registration',
+    	name: Registration,
+    	component: Registration
     }
   ]
 })
