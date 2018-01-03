@@ -33,7 +33,7 @@
     <div class="row space">
            <div class="col-md-12 col-sm-12 col-xs-12 back-block">
                 <div class="col-md-8 pull-right">
-                    <span>Back</span><router-link to="/Options"><img click="membershipPeriod()" class="img-responsive" src="../assets/membership/back.png" /></router-link>
+                    <span>Back</span><router-link to="/Options"><img ng-click="membershipPeriod()" class="img-responsive" src="../assets/membership/back.png" /></router-link>
                 </div>
             </div>
     </div>
