@@ -12,6 +12,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "express": "4.16.2",
     "firebase": "^4.8.1",
     "sockjs": "^0.3.19",
     "vue": "^2.5.2",
